@@ -1,5 +1,6 @@
-name = input ('Enter your name')
-print('Your name is', name)
+a = 10
+b = 5
+print(a+b)
 
 
 
