@@ -1,4 +1,4 @@
-name = input ('Inter your name')
+name = input ('Enter your name')
 print('Your name is', name)
 
 
