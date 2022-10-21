@@ -1,5 +1,5 @@
 name = input ('Inter your name')
-print('Hello', name)
+print('Your name is', name)
 
 
 
